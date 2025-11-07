@@ -14,8 +14,8 @@ The main goal is to understand **what drives profit**, **where losses occur**, a
 
 * **Source:** [Superstore Dataset – Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 * **Rows:** ~6k+ orders
-* **Columns:** Order ID, Order Date, Ship Date, Region, Segment, Category, Sub-Category, Product Name, Sales, Profit, Discount, Ship Mode, etc.
-* **Time Period:** Multi-year sales record (2014–2017 approx.)
+* **Columns:** Order ID, Order Date, Ship Date, Region, Segment, Category, Sub-Category, Product Name, Sales, , Ship Mode, etc.
+* **Time Period:** Multi-year sales record (2015 - 2020 approx.)
 
 ---
 
